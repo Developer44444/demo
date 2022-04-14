@@ -12,7 +12,6 @@ Dependencies used:
 - postgresql
 - jdbc
 - devtools
-- lombok
 
 PostgreSQL was used as DBMS. For automated API dosumentation Swagger was chosen. Comments were added to describe key points.
 
